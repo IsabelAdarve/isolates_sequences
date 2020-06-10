@@ -16,6 +16,6 @@ Every parameter stands for:
   * _6_: window of 6 bp.
   * _30_: score for Phred value.
   
-Files are listed to extract only the .ab1 files from where the DNA sequences will be obtained for later timming. Posterior to files extraction and their respective trim, these new generated files will be .txt and saved into 'output folder'* independent folder. Final files will be able to be uploaded into the Basic Local Alignment Search Tool (BLAST) software at National Center for Biotechnology Information (NCBI) for the taxonomic characterization and the organism with complete genome and higher 'Total Score' will be selected (these parameters are freely selectable according to the user).
+Files are listed to extract only the .ab1 files from where the DNA sequences will be obtained for later timming. Posterior to files extraction and their respective trim, these new generated files will be .txt and saved into 'output folder'* Final files will be able to be uploaded into the Basic Local Alignment Search Tool (BLAST) software at National Center for Biotechnology Information (NCBI) for the taxonomic characterization and the organism with complete genome and higher 'Total Score' will be selected (these parameters are freely selectable according to the user).
 
 *NOTE: for this version the folder 'output folder' must previously exist on the work folder.
