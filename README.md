@@ -9,4 +9,4 @@ From the terminal using the cd command move to the folder were you desire to sav
 
 Posterior to files extraction and their respective trim, these new generated files will be .txt and saved into 'results'* independent folder. Final files will be able to be uploaded into the Basic Local Alignment Search Tool (BLAST) software at National Center for Biotechnology Information (NCBI) for the taxonomic characterization and the organism with complete genome and higher 'Total Score' will be selected (these parameters are freely selectable according to the user).
 
-* NOTE: for this version the folder 'results' must previously exist on the folder were data folder and the script are.
+* NOTE: for this version the folder 'results' must previously exist on the folder were the data folder and the script are.
