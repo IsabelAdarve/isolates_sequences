@@ -1,7 +1,7 @@
 # isolates_sequences
 Here you will find the Python script used for generating the trimmed sequences for every .ab1 file of the DNA samples that were sequenced by Sanger method in the Adarve-Rengifo et al., 2020.
 
-After obtaining the results of the sequencing by the Sanger method, folders with four files for every sequenced DNA sample of extentions .ab1 , .pdf , .phd and .txt are sent
+After obtaining the results of the sequencing by the Sanger method, folders with four files for every sequenced DNA sample of extentions .ab1 , .pdf , .phd and .txt are sent to the investigator by the laboratory in charge of doing the sequencing. 
 
 To proceed with the identification of every sample:
 
